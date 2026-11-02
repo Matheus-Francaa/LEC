@@ -1,0 +1,30 @@
+{
+  "name": "lec-frontend",
+  "version": "1.0.0",
+  "description": "Frontend Angular do Projeto LEC - Levantamento de Escopo e Contexto (Épicos 1-4)",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^18.2.0",
+    "@angular/common": "^18.2.0",
+    "@angular/compiler": "^18.2.0",
+    "@angular/core": "^18.2.0",
+    "@angular/forms": "^18.2.0",
+    "@angular/platform-browser": "^18.2.0",
+    "@angular/platform-browser-dynamic": "^18.2.0",
+    "@angular/router": "^18.2.0",
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.2.0",
+    "@angular/cli": "^18.2.0",
+    "@angular/compiler-cli": "^18.2.0",
+    "typescript": "^5.4.0"
+  }
+}
