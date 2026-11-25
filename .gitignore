@@ -1,13 +1,3 @@
-node_modules/
-dist/
-.angular/
-.cache/
-coverage/
-.env
-.env.*
-!.env.example
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.DS_Store
-Thumbs.db
+.github/modernize/
+lec/backup_lec.sql
+lec/{
